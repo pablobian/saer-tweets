@@ -26,12 +26,12 @@ if not tweets:
     dump = open('saertweets.dump', 'w+')
     tweets = [x.strip() for x in f if x.strip()]
     json.dump(tweets, dump)
-    dump.close() 
+    dump.close()
 random.shuffle(tweets)
 t = tweets.pop()
 dump = open('saertweets.dump', 'w+')
 json.dump(tweets, dump)
 dump.close()
 twitter.statuses.update(status=t)
-#print "tweets left: ", len(tweets)
-#print t
+print "tweets left: ", len(tweets)
+print t
