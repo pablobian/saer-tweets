@@ -1,7 +1,7 @@
 saer-tweets
 ===========
 
-Tweets Juan José Saer's quotes on Twitter.
+Tweets Juan José Saer's quotes on https://twitter.com/jjsaer.
 
 ## Installation
 
@@ -21,5 +21,5 @@ You may want to add this command to a cron job.
 
 ## Tweet other stuff or adding more quotes
 
-Simply edit saertweets.txt separating tweets with one empty line and make sure each tweet is no longer thatn 140 chars.
+Simply edit `saertweets.txt` separating tweets with one empty line and make sure each tweet is no longer thatn 140 chars.
 
