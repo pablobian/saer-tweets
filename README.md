@@ -11,7 +11,7 @@ Juan José Saer on Wikipedia: [es](http://es.wikipedia.org/wiki/Juan_Jos%C3%A9_S
 pip install -r requirements.txt
 ```
 
-Edit `config.py` with your account's creadentials and run
+Add your account's creadentials to `config.py` and run
 
 ```
 python jjsaer.py
