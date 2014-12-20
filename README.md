@@ -3,6 +3,8 @@ saer-tweets
 
 Tweets Juan José Saer's quotes on https://twitter.com/jjsaer.
 
+Juan José Saer on Wikipedia: [es](http://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Saer), [en](http://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Saer).
+
 ## Installation
 
 ```
