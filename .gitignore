@@ -1,3 +1,5 @@
 config.py
 saertweets.dump
 *.pyc
+venv/
+build/
