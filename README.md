@@ -9,7 +9,7 @@ Tweets Juan José Saer's quotes on https://twitter.com/jjsaer.
 pip install -r requirements.txt
 ```
 
-Edit config.py with your account's creadentials and run
+Edit `config.py` with your account's creadentials and run
 
 ```
 python jjsaer.py
